@@ -21,5 +21,5 @@ The preliminary data analysis finds that the ratings are mostly centered around 
 **Modeling**:
 So far in this project the current models are not performing well, but with some tuning I am optimistic that I will be able to create a model that can create a better result. The main issue is the number of multi-dimensional categorical data, most of which have almost 0 impact on the final model. There is also a lack of continuous variables, which is leading to issues with my regression models. There are still some actionable insights that I can get from these regression models, and using these combined with price data will be able to find whether we can cheaply create a tasty chocolate bar.
 
-![title](Images/rating_by_county.png)
+![title](Images/rating_by_country.png)
 ![title](Images/rating_by_year.png)
